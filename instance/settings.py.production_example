@@ -1,0 +1,3 @@
+SECRET_KEY = 'Itri3d2pickaB3tter$ecret!'
+
+DEBUG = False
